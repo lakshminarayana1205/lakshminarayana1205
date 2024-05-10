@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarayana1205&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarayana1205" /> </p>
 
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **lakshminarayanajeripotula@gmail.com**
 
