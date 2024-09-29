@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lakshminarayana</h1>
+<h1 align="center">Hi 👋, I'm Lakshminarayana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.gifer.com/75ez.gif">
 
