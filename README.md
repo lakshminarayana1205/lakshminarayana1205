@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshminarayana</h1>
+<h1 align="center">Hi 👋, I'm Lakshmi Narayana</h1>
 
 <h3 align="center">
 SAP Certified ABAP RAP Developer | SAP S/4HANA | RAP | CDS Views | Fiori | SAP Build
